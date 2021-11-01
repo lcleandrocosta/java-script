@@ -1,1 +1,2 @@
-# java-script
+# Java-script
+## Práticas Java script
